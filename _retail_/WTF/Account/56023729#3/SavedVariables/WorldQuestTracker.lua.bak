@@ -1,0 +1,21 @@
+
+WQTrackerDB = {
+	["profileKeys"] = {
+		["Gälaen - Ragnaros"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["quests_tracked"] = {
+				["Player-1427-0A17B01C"] = {
+				},
+			},
+			["player_names"] = {
+				["Player-1427-0A17B01C"] = {
+					["class"] = "ROGUE",
+					["name"] = "Gälaen",
+					["realm"] = "Ragnaros",
+				},
+			},
+		},
+	},
+}

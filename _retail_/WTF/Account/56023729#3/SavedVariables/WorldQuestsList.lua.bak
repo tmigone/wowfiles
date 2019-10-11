@@ -1,0 +1,46 @@
+
+VWQL = {
+	["ShellGameLocked"] = true,
+	["Scale"] = 0.8,
+	["DisableIconsGeneralMap947"] = true,
+	["Gälean-Ragnaros"] = {
+		["FilterType"] = {
+		},
+		["VERSION"] = 89,
+		["Quests"] = {
+			[51893] = true,
+		},
+		["Filter"] = 63,
+	},
+	["VERSION"] = 89,
+	["Arrow_Point2"] = "TOPRIGHT",
+	["EnableArrowQuest"] = true,
+	["AzeriteFormat"] = 20,
+	["DisableLFG"] = true,
+	["Arrow_PointX"] = -206.382507324219,
+	["Arrow_PointY"] = -131.857696533203,
+	["Ignore"] = {
+	},
+	["ShellGameCenter"] = 38.6889038085938,
+	["AnchorQCBTop"] = 847.3489379882812,
+	["Arrow_Point1"] = "TOPRIGHT",
+	["Gälaen-Ragnaros"] = {
+		["FilterType"] = {
+		},
+		["VERSION"] = 89,
+		["Quests"] = {
+			[51179] = true,
+			[50782] = true,
+			[43943] = true,
+			[50859] = true,
+			[50846] = true,
+			[55264] = true,
+			[54051] = true,
+		},
+		["Filter"] = 63,
+	},
+	["ShellGameSize"] = 257.440307617188,
+	["AnchorQCBLeft"] = 1176.450805664063,
+	["Sort"] = 5,
+	["HideLegion"] = true,
+}

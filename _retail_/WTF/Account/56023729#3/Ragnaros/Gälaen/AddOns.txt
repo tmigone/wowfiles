@@ -1,2 +1,0 @@
-WeakAurasCompanion: enabled
-WorldQuestTracker: disabled
